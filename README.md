@@ -34,3 +34,6 @@ Future improvements include:
 I created EmergencyZIP AI to provide individuals with a more individualized and accessible way to understand their symptoms, find appropriate treatment options, and consider the crucial role of zip codes in determining their health. While the current version is basic due to time constraints, it functions as intended, helping users make informed decisions about their healthcare.
 
 The goal of this AI is to empower individuals to take charge of their health by providing them with easy access to healthcare resources. Ultimately, I hope EmergencyZIP AI will contribute to improving health outcomes in various regions, one zip code at a time. By helping individuals become more health-conscious and informed, this tool has the potential to make a significant impact on healthcare access and overall well-being.
+
+Medium Blog Post: https://medium.com/@angela.cao.98/emergencyzip-ai-00b11d711e26
+YouTube Video: https://youtu.be/aYR06Dws1Xc
