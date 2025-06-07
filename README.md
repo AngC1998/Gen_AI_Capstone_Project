@@ -29,6 +29,7 @@ Future improvements include:
 * Implementing an interactive feature where users input their information, and the AI processes and responds with relevant recommendations.
 * Developing a UX/UI interface for a more user-friendly experience.
 * Expanding the JSON form to capture additional information, such as address, health history, sexuality, and income.
+* Integrating it as a project-to-be-product to my newly-founded startup/organization, NovaLum Project Labs (?)
 
 ## Conclusion and Potential Impact
 I created EmergencyZIP AI to provide individuals with a more individualized and accessible way to understand their symptoms, find appropriate treatment options, and consider the crucial role of zip codes in determining their health. While the current version is basic due to time constraints, it functions as intended, helping users make informed decisions about their healthcare.
